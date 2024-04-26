@@ -3,9 +3,7 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
-import Link from "next/link";
-import { useEffect, useState } from "react";
-import axios, { AxiosError } from "axios";
+import { useState } from "react";
 
 import { useToast } from "@/components/ui/use-toast";
 import { useRouter } from "next/navigation";
@@ -22,7 +20,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Loader2 } from "lucide-react";
 import { signInSchema } from "@/schemas/signInSchema";
-import { ApiResponse } from "@/types/ApiResponse";
 import { signIn } from "next-auth/react";
 
 function Page() {
@@ -41,6 +38,7 @@ function Page() {
   });
 
   const onSubmit = async (data: z.infer<typeof signInSchema>) => {
+    setIsSubmitting(true);
     const response = await signIn('credentials', {
       redirect: false,
       identifier: data.identifier,
@@ -109,6 +107,6 @@ function Page() {
       </div>
     </div>
   )
-}
+};
 
 export default Page;
