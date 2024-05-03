@@ -14,8 +14,6 @@ import { Loader2 , RefreshCcw} from "lucide-react";
 import { useSession } from "next-auth/react";
 import { useCallback, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import { useRouter , usePathname , useSearchParams} from "next/navigation";
-
 
 const Page = () => {
   const [messages, setMessages] = useState<Message[]>([]);

@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "text": "Hello, how are you?"
+  },
+  {
+    "id": 2,
+    "text": "I'm doing well, thank you! How about you?"
+  },
+  {
+    "id": 3,
+    "text": "What's your favorite programming language?"
+  },
+  {
+    "id": 4,
+    "text": "I've been learning Python recently."
+  },
+  {
+    "id": 5,
+    "text": "Do you have any hobbies?"
+  },
+  {
+    "id": 6,
+    "text": "Yes, I enjoy hiking and photography."
+  },
+  {
+    "id": 7,
+    "text": "What's your favorite book?"
+  },
+  {
+    "id": 8,
+    "text": "My favorite book is '1984' by George Orwell."
+  },
+  {
+    "id": 9,
+    "text": "What kind of music do you like?"
+  },
+  {
+    "id": 10,
+    "text": "I enjoy listening to classical music."
+  },
+  {
+    "id": 11,
+    "text": "What's your favorite food?"
+  },
+  {
+    "id": 12,
+    "text": "I love sushi!"
+  },
+  {
+    "id": 13,
+    "text": "What do you think about technology?"
+  },
+  {
+    "id": 14,
+    "text": "Technology is fascinating and constantly evolving."
+  },
+  {
+    "id": 15,
+    "text": "Have you traveled anywhere recently?"
+  },
+  {
+    "id": 16,
+    "text": "Yes, I visited the Grand Canyon last month."
+  },
+  {
+    "id": 17,
+    "text": "What did you think of the Grand Canyon?"
+  },
+  {
+    "id": 18,
+    "text": "It was breathtaking! The views were amazing."
+  },
+  {
+    "id": 19,
+    "text": "Have you ever been camping?"
+  },
+  {
+    "id": 20,
+    "text": "Yes, I enjoy camping in the mountains."
+  },
+  {
+    "id": 21,
+    "text": "Do you enjoy sports?"
+  },
+  {
+    "id": 22,
+    "text": "Yes, I love playing tennis!"
+  },
+  {
+    "id": 23,
+    "text": "What's your favorite season?"
+  },
+  {
+    "id": 24,
+    "text": "My favorite season is autumn."
+  },
+  {
+    "id": 25,
+    "text": "What are your plans for the weekend?"
+  },
+
+  {
+    "id": 26,
+    "text": "I'll be visiting my family this weekend."
+  },
+  {
+    "id": 27,
+    "text": "What type of movies do you enjoy?"
+  },
+  {
+    "id": 28,
+    "text": "I enjoy action and adventure movies."
+  },
+  {
+    "id": 29,
+    "text": "Do you play any musical instruments?"
+  },
+  {
+    "id": 30,
+    "text": "Yes, I play the piano."
+  },
+  {
+    "id": 31,
+    "text": "What are you currently watching on TV?"
+  },
+  {
+    "id": 32,
+    "text": "I'm watching a crime drama series."
+  },
+  {
+    "id": 33,
+    "text": "What's your favorite outdoor activity?"
+  },
+  {
+    "id": 34,
+    "text": "I enjoy hiking in the mountains."
+  },
+  {
+    "id": 35,
+    "text": "Have you ever been to a concert?"
+  },
+  {
+    "id": 36,
+    "text": "Yes, I went to a jazz concert recently."
+  },
+  {
+    "id": 37,
+    "text": "Do you like cooking?"
+  },
+  {
+    "id": 38,
+    "text": "Yes, I enjoy experimenting with new recipes."
+  },
+  {
+    "id": 39,
+    "text": "What's your favorite type of cuisine?"
+  },
+  {
+    "id": 40,
+    "text": "I love Italian cuisine."
+  },
+  {
+    "id": 41,
+    "text": "Do you have any pets?"
+  },
+  {
+    "id": 42,
+    "text": "Yes, I have a dog and a cat."
+  },
+  {
+    "id": 43,
+    "text": "What's your favorite sport?"
+  },
+  {
+    "id": 44,
+    "text": "I love playing soccer."
+  },
+  {
+    "id": 45,
+    "text": "Have you ever tried any extreme sports?"
+  },
+  {
+    "id": 46,
+    "text": "Yes, I went skydiving once!"
+  },
+  {
+    "id": 47,
+    "text": "What's your favorite TV show?"
+  },
+  {
+    "id": 48,
+    "text": "I love watching 'Breaking Bad.'"
+  },
+  {
+    "id": 49,
+    "text": "Do you have any travel plans?"
+  },
+  {
+    "id": 50,
+    "text": "Yes, I'm planning to visit Japan next year."
+  },
+  {
+    "id": 51,
+    "text": "What's your favorite ice cream flavor?"
+  },
+  {
+    "id": 52,
+    "text": "I love mint chocolate chip."
+  },
+  {
+    "id": 53,
+    "text": "Do you enjoy puzzles?"
+  },
+  {
+    "id": 54,
+    "text": "Yes, I enjoy solving crossword puzzles."
+  },
+  {
+    "id": 55,
+    "text": "What's your favorite holiday?"
+  },
+  {
+    "id": 56,
+    "text": "I love celebrating Christmas!"
+  },
+  {
+    "id": 57,
+    "text": "What do you think about the latest technology trends?"
+  },
+  {
+    "id": 58,
+    "text": "I'm excited about the possibilities of AI and VR."
+  },
+  {
+    "id": 59,
+    "text": "Do you enjoy board games?"
+  },
+  {
+    "id": 60,
+    "text": "Yes, I enjoy playing Settlers of Catan."
+  },
+  {
+    "id": 61,
+    "text": "What's your favorite color?"
+  },
+  {
+    "id": 62,
+    "text": "My favorite color is blue."
+  },
+  {
+    "id": 63,
+    "text": "Do you prefer coffee or tea?"
+  },
+  {
+    "id": 64,
+    "text": "I prefer coffee in the morning and tea in the evening."
+  },
+  {
+    "id": 65,
+    "text": "What are your favorite types of books?"
+  },
+  {
+    "id": 66,
+    "text": "I enjoy reading science fiction and fantasy."
+  },
+  {
+    "id": 67,
+    "text": "Do you like trying new foods?"
+  },
+  {
+    "id": 68,
+    "text": "Yes, I'm always open to trying new cuisines."
+  },
+  {
+    "id": 69,
+    "text": "What's your dream vacation destination?"
+  },
+  {
+    "id": 70,
+    "text": "I'd love to visit the Maldives one day."
+  },
+  {
+    "id": 71,
+    "text": "What's your favorite sport to watch?"
+  },
+  {
+    "id": 72,
+    "text": "I enjoy watching basketball games."
+  },
+  {
+    "id": 73,
+    "text": "Do you play any sports?"
+  },
+  {
+    "id": 74,
+    "text": "Yes, I enjoy playing tennis and swimming."
+  },
+  {
+    "id": 75,
+    "text": "What's your favorite season?"
+  },
+  {
+    "id": 76,
+    "text": "My favorite season is spring because everything is in bloom."
+  },
+  {
+    "id": 77,
+    "text": "What's your favorite board game?"
+  },
+  {
+    "id": 78,
+    "text": "I enjoy playing chess."
+  },
+  {
+    "id": 79,
+    "text": "Do you enjoy hiking?"
+  },
+  {
+    "id": 80,
+    "text": "Yes, I love hiking in the mountains."
+  },
+  {
+    "id": 81,
+    "text": "What's your favorite childhood memory?"
+  },
+  {
+    "id": 82,
+    "text": "Playing at the beach with my family."
+  },
+  {
+    "id": 83,
+    "text": "Do you enjoy gardening?"
+  },
+  {
+    "id": 84,
+    "text": "Yes, I have a small vegetable garden in my backyard."
+  },
+  {
+    "id": 85,
+    "text": "What's your favorite flower?"
+  },
+  {
+    "id": 86,
+    "text": "I love sunflowers!"
+  },
+  {
+    "id": 87,
+    "text": "Do you enjoy visiting museums?"
+  },
+  {
+    "id": 88,
+    "text": "Yes, I enjoy visiting art museums."
+  },
+  {
+    "id": 89,
+    "text": "What's your favorite place to visit in your city?"
+  },
+  {
+    "id": 90,
+    "text": "I love visiting the local farmers market."
+  },
+  {
+    "id": 91,
+    "text": "Do you enjoy watching documentaries?"
+  },
+  {
+    "id": 92,
+    "text": "Yes, I enjoy learning new things through documentaries."
+  },
+  {
+    "id": 93,
+    "text": "What's your favorite season?"
+  },
+  {
+    "id": 94,
+    "text": "I love autumn for its beautiful colors."
+  },
+  {
+    "id": 95,
+    "text": "What's your favorite outdoor activity?"
+  },
+  {
+    "id": 96,
+    "text": "I enjoy camping and hiking."
+  },
+  {
+    "id": 97,
+    "text": "What's your favorite thing to do on the weekend?"
+  },
+  {
+    "id": 98,
+    "text": "I enjoy going for long walks in the park."
+  },
+  {
+    "id": 99,
+    "text": "What's your favorite dessert?"
+  },
+  {
+    "id": 100,
+    "text": "I love chocolate cake!"
+  }
+]
